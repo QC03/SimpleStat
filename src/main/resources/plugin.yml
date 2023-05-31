@@ -1,0 +1,7 @@
+name: SimpleStat
+version: 1.0.0
+main: com.github.qc03.SimpleStat.Simplestat
+description: Offer Simple Stat to Users
+author: QC
+website: https://github.com/QC03
+api-version: 1.19
